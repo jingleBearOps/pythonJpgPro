@@ -1,2 +1,2 @@
-# pythonJpgPro
-#Using pillow to add Filters to JPG pictures. 
+# pythonJpgPro#Using pillow to add Filters to JPG pictures. 
+
